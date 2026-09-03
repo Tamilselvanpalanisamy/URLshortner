@@ -264,9 +264,9 @@ Possible improvements for future versions include:
 
 ## 👨‍💻 Author
 
-**Tamilselvan**
+**Tamilselvan P**
 
-BE – Electronics and Communication Engineering
+Aspiring Software Engineer | Python developer
 
 Interested in **Python Development, Software Engineering, Data Analytics, and Backend Development**.
 
